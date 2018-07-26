@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (http://matplotlib.org/) -->
+<svg height="288pt" version="1.1" viewBox="0 0 432 288" width="432pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 432 288 
+L 432 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="legend_1">
+    <g id="patch_2">
+     <path d="M 195.695625 159.81375 
+L 247.104375 159.81375 
+L 247.104375 120.98625 
+L 195.695625 120.98625 
+z
+" style="fill:#e5e5e5;stroke:#ffffff;stroke-linejoin:miter;stroke-width:0.5;"/>
+    </g>
+    <g id="line2d_1">
+     <path d="M 204.095625 130.704375 
+L 220.895625 130.704375 
+" style="fill:none;stroke:#9b82f3;stroke-linecap:square;stroke-width:2.0;"/>
+    </g>
+    <g id="line2d_2"/>
+    <g id="text_1">
+     <!-- I -->
+     <defs>
+      <path d="M 9.8125 72.90625 
+L 19.671875 72.90625 
+L 19.671875 0 
+L 9.8125 0 
+z
+" id="BitstreamVeraSans-Roman-49"/>
+     </defs>
+     <g transform="translate(234.095625 134.904375)scale(0.12 -0.12)">
+      <use xlink:href="#BitstreamVeraSans-Roman-49"/>
+     </g>
+    </g>
+    <g id="line2d_3">
+     <path d="M 204.095625 148.318125 
+L 220.895625 148.318125 
+" style="fill:none;stroke:#ff509e;stroke-linecap:square;stroke-width:2.0;"/>
+    </g>
+    <g id="line2d_4"/>
+    <g id="text_2">
+     <!-- A -->
+     <defs>
+      <path d="M 34.1875 63.1875 
+L 20.796875 26.90625 
+L 47.609375 26.90625 
+z
+M 28.609375 72.90625 
+L 39.796875 72.90625 
+L 67.578125 0 
+L 57.328125 0 
+L 50.6875 18.703125 
+L 17.828125 18.703125 
+L 11.1875 0 
+L 0.78125 0 
+z
+" id="BitstreamVeraSans-Roman-41"/>
+     </defs>
+     <g transform="translate(234.095625 152.518125)scale(0.12 -0.12)">
+      <use xlink:href="#BitstreamVeraSans-Roman-41"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
